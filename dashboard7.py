@@ -46,15 +46,19 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 @st.cache_data
-def load_data():
-    """Load and cache the merged CSV files"""
-    try:
-        base_path = r"C:/Users/karan.daphade_materr/Desktop/streamlit-dashboard/data"
-        files = {
-            'farminfo': os.path.join(base_path, "merged_farminfo.csv"),
-            'fieldvisit': os.path.join(base_path, "merged_fieldvisit.csv"),
-            'rainfall': os.path.join(base_path, "merged_rainfall.csv")
-        }
+base_path = Path(__file__).parent / "data"
+
+# Define CSV file paths (relative)
+files = {
+    'farminfo': base_path / "merged_farminfo.csv",
+    'fieldvisit': base_path / "merged_fieldvisit.csv",
+    'rainfall': base_path / "merged_rainfall.csv"
+}
+
+# Load CSVs
+df_farm = pd.read_csv(files['farminfo'])
+df_visit = pd.read_csv(files['fieldvisit'])
+df_rain = pd.read_csv(files['rainfall'])
         
         data = {}
         load_messages = []
