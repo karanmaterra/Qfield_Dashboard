@@ -49,7 +49,7 @@ st.markdown("""
 def load_data():
     """Load and cache the merged CSV files"""
     try:
-        base_path = r"C:\Users\karan.daphade_materr\Desktop\streamlit-dashboard\data"
+        base_path = r"C:\Users\karan.daphade_materr\Desktop\streamlit-dashboard"
         files = {
             'farminfo': os.path.join(base_path, "merged_farminfo.csv"),
             'fieldvisit': os.path.join(base_path, "merged_fieldvisit.csv"),
