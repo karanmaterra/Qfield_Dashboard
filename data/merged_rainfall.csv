@@ -1,0 +1,398 @@
+fid,Farmer ID,Visit date,Rainfall date (पावसाची तारीख),Rain intensity (पावसाची तीव्रता),Soil wetness (मातीतील ओलावा),Puddles,Rainfall date 1  (पावसाची तारीख 1),Rainfall date 2  (पावसाची तारीख 2),FE_Name,Crop photo,Intercrop photo,Insect occurance date,Insect type (कीटकाचा प्रकार),Disease name (रोगाचे नाव),Date of disease occurence,Insect photo,Farmer Name,Disease photo,Crop stage start date (पिकाच्या अवस्थेची सुरुवातीची तारीख),Crop photo1,Intercrop photo 1,Insect occurance date 1,Insect type 1 (कीटकाचा प्रकार 1),Disease name 1 ((रोगाचे नाव) 1),Date of disease occurence 1,Insect photo 1,Disease photo 1,Crop stage ( पिकाची अवस्था)
+1,11831.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,11722.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,10752.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,10811.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,10830.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,10752.0,2025/08/12,2025/08/07,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/09,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,10811.0,2025/08/12,2025/08/07,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/09,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,10830.0,2025/08/12,2025/08/07,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/09,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,11831.0,2025/08/05,NaN,NaN,NaN,NaN,NaN,NaN,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,11722.0,2025/08/14,2025/08/07,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/13,Ankush Kalbhut,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,458.0,2025/07/09,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250709112312741_image_0001.jpg,NaN,2025/07/05,Aphids (मावा),NaN,NaN,files/fieldvisits_20250709112414932_image_0001.jpg,NaN,NaN,2025/07/04,DCIM/fieldvisits_20250709112332658.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+16,558.0,2025/07/09,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250709113558435_image_0001.jpg,NaN,NaN,Aphids (मावा),NaN,NaN,files/fieldvisits_20250709113654175_image_0001.jpg,NaN,NaN,2025/07/04,DCIM/fieldvisits_20250709113613514.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+17,518.0,2025/07/09,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250709113928636_image_0001.jpg,DCIM/fieldvisits_20250709113953208.jpg,2025/07/06,Jassids / Leafhoppers (तुडतुडे / पात्या चोखणारे कीटक),NaN,NaN,files/fieldvisits_20250709114052306_image_0001.jpg,NaN,NaN,2025/07/05,DCIM/fieldvisits_20250709113942958.jpg,DCIM/fieldvisits_20250709114027737.jpg,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+18,571.0,2025/07/09,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250709125927732_image_0001.jpg,DCIM/fieldvisits_20250709125958194.jpg,2025/07/07,Aphids (मावा),NaN,NaN,files/fieldvisits_20250709130050769_image_0001.jpg,NaN,NaN,2025/07/05,DCIM/fieldvisits_20250709125938142.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+19,514.0,2025/07/09,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250709133657674_image_0001.jpg,DCIM/fieldvisits_20250709133735505.jpg,2025/07/05,Aphids (मावा),NaN,NaN,files/fieldvisits_20250709133813900_image_0001.jpg,NaN,NaN,2025/07/04,DCIM/fieldvisits_20250709133707037.jpg,DCIM/fieldvisits_20250709133723567.jpg,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+20,518.0,2025/07/20,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250720065601778_image_0001.jpg,DCIM/fieldvisits_20250720065626316.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2025/07/18,DCIM/fieldvisits_20250720065616296.jpg,DCIM/fieldvisits_20250720065704550.jpg,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+21,558.0,2025/07/20,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250720065927459_image_0001.jpg,DCIM/fieldvisits_20250720065943637.jpg,NaN,NaN,NaN,NaN,files/fieldvisits_20250720070023434_image_0001.jpg,NaN,NaN,2025/07/17,DCIM/fieldvisits_20250720065936263.jpg,DCIM/fieldvisits_20250720065957769.jpg,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+22,458.0,2025/07/20,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250720070257601_image_0001.jpg,DCIM/fieldvisits_20250720070312155.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,2025/07/15,DCIM/fieldvisits_20250720070304950.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+23,571.0,2025/07/20,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250720071654137_image_0001.jpg,DCIM/fieldvisits_20250720071712426.jpg,NaN,Aphids (मावा),NaN,NaN,files/fieldvisits_20250720071756111_image_0001.jpg,NaN,NaN,2025/07/16,DCIM/fieldvisits_20250720071704814.jpg,DCIM/fieldvisits_20250720071731247.jpg,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+24,514.0,2025/07/20,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250720073403219_image_0001.jpg,DCIM/fieldvisits_20250720073441117.jpg,2025/07/20,Aphids (मावा),NaN,NaN,files/fieldvisits_20250720073516714_image_0001.jpg,NaN,NaN,2025/07/17,DCIM/fieldvisits_20250720073413886.jpg,DCIM/fieldvisits_20250720073454459.jpg,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+25,458.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+26,571.0,2025/08/02,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250802173634157_image_0001.jpg,DCIM/fieldvisits_20250802173844365.jpg,2025/08/02,Aphids (मावा),NaN,NaN,files/fieldvisits_20250802174102446_image_0001.jpg,NaN,NaN,2025/07/26,DCIM/fieldvisits_20250802173656440.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Flowering (फुलोरा अवस्था)
+27,518.0,2025/08/02,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250802181441764_image_0001.jpg,NaN,2025/08/02,Aphids (मावा),NaN,NaN,files/fieldvisits_20250802181531370_image_0001.jpg,NaN,NaN,2025/08/02,DCIM/fieldvisits_20250802181451066.jpg,DCIM/fieldvisits_20250802181459806.jpg,NaN,NaN,NaN,NaN,NaN,NaN,Flowering (फुलोरा अवस्था)
+28,558.0,2025/08/02,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250802182547788_image_0001.jpg,NaN,2025/08/02,Aphids (मावा),NaN,NaN,files/fieldvisits_20250802182617781_image_0001.jpg,NaN,NaN,2025/08/02,DCIM/fieldvisits_20250802182555861.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Flowering (फुलोरा अवस्था)
+29,458.0,2025/08/02,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250802182812124_image_0001.jpg,NaN,2025/08/02,Aphids (मावा),NaN,NaN,files/fieldvisits_20250802182926967_image_0001.jpg,NaN,NaN,2025/07/30,DCIM/fieldvisits_20250802182818000.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Flowering (फुलोरा अवस्था)
+30,514.0,2025/08/02,NaN,NaN,NaN,NaN,NaN,NaN,Baliram Ghule,files/fieldvisits_20250802184301924_image_0001.jpg,DCIM/fieldvisits_20250802184350528.jpg,2025/08/02,Aphids (मावा),NaN,NaN,files/fieldvisits_20250802184416890_image_0001.jpg,NaN,NaN,2025/07/30,DCIM/fieldvisits_20250802184312247.jpg,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vegetative (वाढीची अवस्था / शाकीय वाढ)
+1,1066.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/05,2025/07/08,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,471.0,2025/07/09,2025/07/06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,515.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,501.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/05,2025/07/08,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,527.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,491.0,2025/07/09,2025/07/06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,561.0,2025/07/09,2025/07/06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,515.0,2025/07/08,2025/07/06,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,2025/07/08,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,1066.0,2025/07/08,2025/07/06,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,2025/07/08,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,1066.0,2025/07/15,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,515.0,2025/07/15,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,471.0,2025/07/15,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,491.0,2025/07/15,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,561.0,2025/07/15,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,515.0,2025/08/01,NaN,No Rain (पाऊस नाही),Moist (ओलसर माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,471.0,2025/08/01,NaN,No Rain (पाऊस नाही),Moist (ओलसर माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+20,491.0,2025/08/01,NaN,No Rain (पाऊस नाही),Moist (ओलसर माती),False,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+21,561.0,2025/08/01,NaN,No Rain (पाऊस नाही),Moist (ओलसर माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+22,1066.0,2025/08/01,NaN,No Rain (पाऊस नाही),Moist (ओलसर माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+23,491.0,NaN,NaN,No Rain (पाऊस नाही),Moist (ओलसर माती),NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,742.0,2025/07/09,2025/07/09,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/07,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,NaN,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,NaN,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,10975.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,272.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,10975.0,2025/07/16,2025/07/15,Light Rain (हलका पाऊस),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,272.0,2025/07/16,2025/07/15,Light Rain (हलका पाऊस),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,742.0,2025/07/16,2025/07/15,Light Rain (हलका पाऊस),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,11482.0,2025/07/16,2025/07/15,Light Rain (हलका पाऊस),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,10988.0,2025/07/16,2025/07/15,Light Rain (हलका पाऊस),Dry (कोरडी माती),NaN,NaN,NaN,Bhagwat Misal,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,6406.0,2025/07/04,2025/06/25,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/03,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,12322.0,2025/06/25,2025/07/02,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/04,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,6212.0,2025/07/04,2025/06/27,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/02,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,6212.0,2025/07/18,2025/07/17,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,6406.0,2025/08/14,2025/08/13,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,NaN,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,6212.0,2025/08/14,2025/08/13,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,NaN,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,1482.0,2025/08/14,2025/08/13,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,NaN,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,12322.0,2025/08/14,2025/08/13,NaN,NaN,NaN,NaN,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Chetan Thombare,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,664.0,2025/07/06,2025/07/06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/05,2025/06/30,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,664.0,2025/07/18,2025/07/17,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/06,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,12719.0,2025/07/18,2025/07/06,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,12719.0,2025/07/06,2025/07/06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/05,2025/06/30,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,687.0,2025/07/18,2025/07/17,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/02,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,597.0,2025/07/18,2025/07/17,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/06,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,6235.0,2025/07/18,2025/07/17,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/03,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,6235.0,2025/08/11,2025/08/10,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/08/08,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,664.0,2025/08/11,2025/08/10,Very Heavy Rain (अतिजोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/08/08,2025/08/05,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,12719.0,2025/08/11,2025/08/09,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/08/06,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,687.0,2025/08/11,2025/08/09,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/08/05,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,597.0,2025/08/11,2025/08/10,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/08/08,2025/08/05,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,10974.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/06,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,10959.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),NaN,NaN,2025/07/06,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,10959.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/06,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,6169.0,2025/07/08,2025/07/06,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/04,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,10732.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/06,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,10731.0,2025/07/08,2025/07/05,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/06,2025/07/07,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,10731.0,2025/07/18,2025/07/17,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/16,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,10732.0,2025/07/18,2025/07/17,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/16,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,10959.0,2025/07/18,2025/07/17,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/16,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,10974.0,2025/07/18,2025/07/17,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/16,2025/07/18,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,6169.0,2025/07/18,2025/07/17,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/16,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,6169.0,2025/08/01,2025/07/23,Heavy Rain (जोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025/07/24,2025/07/25,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,10974.0,2025/08/02,2025/07/23,Heavy Rain (जोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025/07/24,2025/07/25,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,10732.0,2025/08/02,2025/07/24,Very Heavy Rain (अतिजोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025/07/25,2025/07/26,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,10959.0,2025/08/02,2025/07/25,Very Heavy Rain (अतिजोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025/07/26,2025/07/27,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,10731.0,2025/08/02,2025/07/25,Very Heavy Rain (अतिजोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025/07/26,2025/07/27,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,10974.0,2025/08/05,2025/07/25,Very Heavy Rain (अतिजोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025/07/26,2025/07/27,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,322.0,2025/07/08,2025/07/04,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/06,2025/07/07,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,6654.0,2025/07/08,2025/07/04,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/06,2025/07/07,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,12298.0,2025/07/08,2025/07/04,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/06,2025/07/07,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,322.0,2025/07/08,2025/07/04,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/06,2025/07/07,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,13824.0,2025/07/08,2025/07/04,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/06,2025/07/07,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,311.0,2025/07/08,2025/07/04,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/06,2025/07/07,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,13824.0,2025/07/18,2025/07/17,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/05,NaN,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,12298.0,2025/07/18,2025/07/17,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/05,NaN,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,311.0,2025/07/18,2025/07/17,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/05,NaN,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,6654.0,2025/07/19,2025/07/17,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/18,NaN,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,322.0,2025/07/19,2025/07/17,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,NaN,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,12298.0,2025/08/02,2025/07/22,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/24,2025/08/26,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,322.0,2025/08/02,2025/07/22,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/24,2025/08/26,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,311.0,2025/08/02,2025/07/22,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/24,2025/08/26,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,13824.0,2025/08/02,2025/07/22,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/24,2025/08/26,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,6654.0,2025/08/02,2025/07/22,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/24,2025/08/26,Ganesh Gaikwad,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,729.0,2025/07/04,2025/06/26,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,723.0,2025/07/04,2025/06/26,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,734.0,2025/07/04,2025/06/26,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,723.0,2025/07/04,NaN,No Rain (पाऊस नाही),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,722.0,2025/07/04,2025/06/26,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,734.0,2025/07/04,2025/07/04,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/06/26,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,726.0,2025/07/04,2025/06/26,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,729.0,2025/07/15,2025/07/12,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,734.0,2025/07/15,2025/07/12,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,722.0,2025/07/16,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,723.0,2025/07/17,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,726.0,2025/07/17,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,729.0,2025/08/02,2025/07/26,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/27,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,734.0,2025/08/02,2025/07/25,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/26,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,722.0,2025/08/02,2025/07/25,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/26,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,726.0,2025/08/03,NaN,NaN,NaN,NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,723.0,2025/08/03,2025/07/25,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/26,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+20,726.0,2025/07/17,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,NaN,NaN,Govind Bhutekar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,1101.0,2025/08/02,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kailas Khode,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,14391.0,2025/08/02,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kailas Khode,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,NaN,NaN,2025/07/17,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/17,NaN,Kailas Khode,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,1090.0,2025/08/02,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kailas Khode,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,6923.0,2025/08/02,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kailas Khode,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,846.0,2025/08/03,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kailas Khode,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,11771.0,2025/07/20,2025/07/17,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/18,2025/07/20,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,11771.0,2025/07/20,2025/07/17,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/18,2025/07/19,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,11077.0,2025/07/10,2025/07/07,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,11771.0,2025/07/10,2025/07/07,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,1841.0,2025/07/10,2025/07/07,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,877.0,2025/07/10,2025/07/07,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,878.0,2025/07/10,2025/07/07,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,877.0,2025/07/20,2025/07/19,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/20,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,1379.0,2025/07/20,2025/07/17,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,2025/07/20,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,877.0,2025/07/20,2025/07/17,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,2025/07/20,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,1841.0,2025/07/20,2025/07/17,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,2025/07/20,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,11077.0,2025/07/20,2025/07/17,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/18,2025/07/19,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,1841.0,2025/08/03,2025/07/31,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,877.0,2025/08/03,2025/08/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/02,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,1379.0,2025/08/03,NaN,NaN,NaN,NaN,NaN,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,11077.0,2025/08/03,NaN,NaN,NaN,NaN,NaN,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+20,11771.0,2025/08/12,2025/08/09,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,11537.0,2025/07/08,NaN,NaN,NaN,NaN,NaN,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,11537.0,2025/07/08,2025/07/07,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,12451.0,2025/07/07,2025/07/08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,11600.0,2025/07/08,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,11587.0,2025/07/08,2025/06/26,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,12451.0,2025/07/08,2025/06/26,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,2025/07/08,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,12451.0,2025/07/22,2025/07/21,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/15,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,12450.0,2025/07/22,2025/07/21,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/15,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,11587.0,2025/07/22,2025/07/21,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/15,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,11537.0,2025/07/22,2025/07/21,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/15,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,11600.0,2025/07/22,2025/07/21,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/15,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,11600.0,2025/08/02,2024/08/28,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2024/08/29,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,11537.0,2025/08/02,2024/08/28,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2024/08/29,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,11587.0,2025/08/03,2023/07/25,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/26,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,12450.0,2025/08/03,2025/07/25,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/26,NaN,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,12451.0,2025/08/03,2025/08/03,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/25,2025/07/26,Manish Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,10805.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,10760.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,10773.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,11263.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,10764.0,2025/07/16,2025/07/07,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/08,2025/07/09,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,11263.0,2025/08/14,2025/08/13,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/09,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,10805.0,2025/08/14,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/13,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,10760.0,2025/08/14,2025/08/13,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/08,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,10773.0,2025/08/14,2025/08/13,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/08,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,10764.0,2025/08/14,2025/08/13,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/08,Mithun Tagade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,10903.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,NaN,2025/07/03,2025/07/01,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,10891.0,2025/07/03,2025/07/01,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/01,NaN,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,11195.0,2025/07/03,2025/07/01,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,10903.0,2025/07/03,2025/07/01,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,1813.0,2025/07/04,2025/07/03,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,NaN,NaN,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,10891.0,2025/07/16,2025/07/08,Heavy Rain (जोरदार पाऊस),Dry (कोरडी माती),NaN,2025/07/09,2025/07/10,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,10893.0,2025/07/16,2025/07/08,Heavy Rain (जोरदार पाऊस),Dry (कोरडी माती),NaN,2025/07/09,2025/07/10,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,10903.0,2025/07/16,2025/07/08,Heavy Rain (जोरदार पाऊस),Dry (कोरडी माती),NaN,2025/07/09,2025/07/10,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,11195.0,2025/07/16,2025/07/08,Heavy Rain (जोरदार पाऊस),Dry (कोरडी माती),NaN,2025/07/09,2025/07/10,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,1813.0,2025/07/17,2025/07/09,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/07/10,2025/07/16,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,10893.0,2025/08/12,2025/08/08,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/09,2025/08/09,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,10891.0,2025/08/12,2025/08/08,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/09,2025/08/09,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,11195.0,2025/08/12,2025/08/08,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/09,2025/08/09,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,10903.0,2025/08/12,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/09,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,1813.0,2025/08/14,2025/08/09,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/08/10,2025/08/13,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+20,1813.0,2025/08/14,2025/08/09,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/08/10,2025/08/13,Pawan Lade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,11087.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,12623.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,12170.0,2025/07/09,2025/07/06,Heavy Rain (जोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,NaN,2025/07/09,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,11093.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,10948.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,0.0,2025/07/09,2025/07/06,Heavy Rain (जोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,12170.0,2025/07/16,2025/07/11,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,12170.0,2025/07/16,2025/07/11,Moderate Rain (मध्यम पाऊस),Dry (कोरडी माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,12170.0,2025/07/16,2025/07/11,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,11087.0,2025/07/16,2025/07/11,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,11087.0,2025/07/16,2025/07/11,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,12170.0,2025/08/14,2025/08/13,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/08/14,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,12623.0,2025/08/14,2025/08/13,Heavy Rain (जोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,10948.0,2025/08/14,2025/08/13,Heavy Rain (जोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025/08/14,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,10948.0,2025/08/14,2025/08/14,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,10948.0,2025/08/14,2025/08/13,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/08/14,NaN,Pravin Dhone,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,11770.0,2025/07/08,2025/07/08,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/07,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,1008.0,2025/07/08,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/06,2025/07/08,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,1003.0,2025/07/08,2025/07/06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,1069.0,2025/07/08,2025/07/06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,506.0,2025/07/08,2025/07/06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,1003.0,2025/07/15,2025/07/15,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025/07/14,2025/07/13,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,1008.0,2025/07/15,2025/07/14,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025/07/13,2025/07/15,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,11770.0,2025/07/15,2025/07/14,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025/07/15,2025/07/15,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,1069.0,2025/07/15,2025/07/13,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025/07/14,2025/07/15,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,506.0,2025/07/16,2025/07/15,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/15,2025/07/15,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,506.0,2025/08/01,2025/07/24,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/26,2025/07/28,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,1003.0,2025/08/01,2025/07/21,Heavy Rain (जोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025/07/24,2025/07/30,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,1008.0,2025/08/01,2025/07/22,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/24,2025/07/30,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,11770.0,2025/08/01,2025/07/23,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/26,2025/07/30,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,1069.0,2025/08/01,2025/07/20,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/23,2025/08/28,Ravi Ghule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,12551.0,2025/07/04,2025/07/03,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,12548.0,2025/07/09,2025/07/07,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/09,NaN,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,12546.0,2025/07/09,2025/07/07,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,NaN,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,12648.0,2025/07/09,2025/07/07,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,2025/07/07,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,12551.0,2025/07/15,2025/07/15,No Rain (पाऊस नाही),NaN,NaN,2025/07/15,NaN,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,12548.0,2025/07/22,2025/07/16,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/16,NaN,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,12546.0,2025/07/22,2025/07/16,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/16,2025/07/16,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,12648.0,2025/07/22,2025/07/16,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/16,2025/07/16,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,12546.0,2025/08/09,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/08,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,12648.0,2025/08/09,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/09,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,12548.0,2025/07/22,2025/07/16,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/16,NaN,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,12546.0,2025/08/09,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/08,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+20,12648.0,2025/08/09,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/09,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+21,12648.0,2025/08/09,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/08,2025/08/09,Ravi Uikey,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,11272.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,11604.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,10866.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Dry (कोरडी माती),NaN,NaN,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,8960.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,8933.0,2025/07/03,2025/07/01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/03,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,11604.0,2025/07/15,2025/07/15,"Extremely Heavy Rain (मुसळधार पाऊस / अतिप्रचंड पाऊस)
+
+",Moist (ओलसर माती),NaN,2025/07/07,2025/07/08,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,11272.0,2025/07/15,2025/07/07,"Extremely Heavy Rain (मुसळधार पाऊस / अतिप्रचंड पाऊस)
+
+",Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/09,2025/07/08,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,10866.0,2025/07/17,2025/07/08,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/07/16,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,8960.0,2025/07/17,2025/07/17,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/07/16,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,8933.0,2025/07/17,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,NaN,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,10866.0,2025/08/12,2025/08/06,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/07,2025/08/08,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,8960.0,2025/08/12,2025/08/06,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/07,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,8933.0,2025/08/12,2025/08/12,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/06,2025/08/07,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,11272.0,2025/08/12,2025/08/06,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/07,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,11604.0,2025/08/12,2025/08/06,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/07,NaN,Sachin Mule,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,9263.0,2025/07/17,2025/07/08,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/09,2025/07/16,Sandeep Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,9589.0,2025/07/17,2025/07/16,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/16,2025/07/16,Sandeep Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,6862.0,2025/07/17,2025/07/16,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/16,2025/07/16,Sandeep Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,6791.0,2025/07/17,2025/07/08,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/09,2025/07/16,Sandeep Shelke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,12138.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,12060.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,12062.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,11985.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,NaN,2025/07/08,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,12067.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,11985.0,2025/07/16,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,12138.0,2025/07/16,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,11985.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,11985.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,11985.0,2025/07/18,2025/07/16,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,12138.0,2025/07/18,2025/07/16,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,12060.0,2025/07/18,2025/07/16,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,12067.0,2025/07/18,2025/07/16,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,12062.0,2025/07/18,2025/07/16,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/07/18,NaN,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,12138.0,2025/08/13,2025/08/08,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/13,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,12060.0,2025/08/13,2025/08/08,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/13,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,12067.0,2025/08/13,2025/08/08,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/13,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+20,12062.0,2025/08/13,2025/08/08,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/13,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+21,11985.0,2025/08/13,2025/08/08,Heavy Rain (जोरदार पाऊस),Moist (ओलसर माती),NaN,2025/08/09,2025/08/09,Santosh Rede,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,NaN,NaN,2025/07/08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,2025/07/06,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,1190.0,2025/07/15,NaN,No Rain (पाऊस नाही),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,NaN,NaN,2025/07/08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/06,2025/07/07,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,1034.0,2025/07/08,2025/07/08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,2025/07/06,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,1190.0,2025/07/08,2025/07/08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,2025/07/06,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,1189.0,2025/07/08,2025/07/08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/07,2025/07/06,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,NaN,NaN,2025/07/15,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,NaN,NaN,NaN,No Rain (पाऊस नाही),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,1189.0,2025/07/17,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,1034.0,2025/07/17,NaN,No Rain (पाऊस नाही),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,1185.0,2025/08/05,2025/08/05,No Rain (पाऊस नाही),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,1189.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,1189.0,2025/08/05,NaN,No Rain (पाऊस नाही),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,1034.0,2025/08/05,2025/08/05,No Rain (पाऊस नाही),Moist (ओलसर माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,1190.0,2025/08/01,NaN,No Rain (पाऊस नाही),Moist (ओलसर माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,11420.0,2025/08/03,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,11420.0,2025/08/03,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Sharad Katkade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,11498.0,2025/07/04,2025/06/24,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/06/29,2025/07/03,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,10826.0,2025/07/04,2025/06/24,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/06/29,2025/07/03,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,13212.0,2025/07/15,2025/07/07,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,11034.0,2025/07/04,2025/07/02,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/03,2025/07/04,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,NaN,NaN,2025/06/25,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/06/29,2025/07/03,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,10780.0,2025/07/04,2025/06/29,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/04,2025/07/04,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,13212.0,2025/07/04,2025/06/24,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/06/29,2025/07/04,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,13235.0,2025/07/04,2025/06/24,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/06/29,2025/07/04,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,13235.0,2025/07/15,2025/07/07,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,10780.0,2025/07/15,2025/07/07,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,11498.0,2025/07/15,2025/07/07,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,10826.0,2025/07/15,2025/07/07,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/08,2025/07/09,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,10826.0,2025/08/11,2025/08/08,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/09,NaN,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,11498.0,2025/08/11,2025/08/08,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/09,NaN,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,10780.0,2025/08/11,2025/08/07,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/08,2025/08/09,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,13212.0,2025/08/11,2025/08/07,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/08,2025/08/09,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,13235.0,2025/08/11,2025/08/07,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/08/08,2025/08/09,Swapnil Warhade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,13836.0,2025/07/02,2025/06/26,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/01,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,523.0,2025/07/02,2025/06/26,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/01,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,475.0,2025/07/08,2025/07/01,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/07,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,6705.0,2025/07/02,2025/06/26,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/01,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,1303.0,2025/07/05,2025/06/25,Moderate Rain (मध्यम पाऊस),NaN,NaN,2025/07/01,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,522.0,2025/07/08,2025/07/01,Light Rain (हलका पाऊस),NaN,NaN,2025/07/07,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,522.0,2025/07/16,2025/07/15,Light Rain (हलका पाऊस),NaN,NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,475.0,2025/07/16,2025/07/15,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,13836.0,2025/07/17,2025/07/15,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,6705.0,2025/07/17,2025/07/15,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,523.0,2025/07/21,2025/07/17,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/18,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,6705.0,2025/08/03,2025/07/25,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,13836.0,2025/08/03,2025/07/27,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,523.0,2025/08/03,2025/07/27,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,522.0,2025/08/03,2025/07/27,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,475.0,2025/08/03,2025/07/27,Heavy Rain (जोरदार पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,14229.0,2025/06/28,2025/06/26,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,NaN,NaN,2025/07/16,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/07,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,12413.0,2025/06/27,2025/06/26,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,443.0,2025/06/28,2025/06/26,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,434.0,2025/06/28,2025/06/26,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,443.0,2025/07/16,2023/06/30,Light Rain (हलका पाऊस),Dry (कोरडी माती),NaN,2025/07/01,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,12413.0,2025/07/16,2025/06/29,Light Rain (हलका पाऊस),Dry (कोरडी माती),NaN,2025/06/30,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,NaN,NaN,2025/07/16,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/06/29,2025/06/30,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,13304.0,2025/07/21,2025/07/07,Moderate Rain (मध्यम पाऊस),Dry (कोरडी माती),NaN,2025/07/18,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,14229.0,2025/08/02,2025/07/23,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/24,2025/07/25,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,12413.0,2025/08/02,2025/07/23,Moderate Rain (मध्यम पाऊस),Dry (कोरडी माती),NaN,2025/07/24,2025/07/25,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,443.0,2025/08/02,2025/07/23,Moderate Rain (मध्यम पाऊस),Dry (कोरडी माती),NaN,2025/07/24,2025/07/25,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,434.0,2025/08/02,2025/07/23,Moderate Rain (मध्यम पाऊस),Dry (कोरडी माती),NaN,2025/07/24,2025/07/25,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,13304.0,2025/08/10,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/07,2025/08/06,Vishwajit Lanke,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,11778.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,11658.0,2025/07/18,2025/07/15,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/16,2025/07/17,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,12888.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,11431.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+6,11658.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+7,11441.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+8,12888.0,2025/08/10,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+9,11441.0,2025/08/10,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+10,11778.0,2025/08/10,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+11,12888.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+12,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+13,11431.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+14,11658.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+15,11441.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+16,11778.0,2025/07/09,2025/07/07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025/07/08,2025/07/09,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+17,11441.0,2025/07/18,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+18,11778.0,2025/07/18,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+19,12888.0,2025/07/18,2025/07/15,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/16,2025/07/17,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+20,11658.0,2025/08/04,2025/07/23,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/24,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+21,11431.0,2025/08/04,2025/07/23,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025/07/24,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+22,12888.0,2025/08/10,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+23,11441.0,2025/08/10,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+24,11778.0,2025/08/10,2025/08/08,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025/08/09,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+1,11615.0,2025/07/19,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/17,2025/07/18,Yogesh Tangade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+2,12762.0,2025/07/19,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/17,2025/07/18,Yogesh Tangade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+3,11603.0,2025/07/19,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/17,2025/07/18,Yogesh Tangade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+4,11273.0,2025/07/19,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/17,2025/07/18,Yogesh Tangade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
+5,11512.0,2025/07/19,2025/07/16,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025/07/17,2025/07/18,Yogesh Tangade,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN
