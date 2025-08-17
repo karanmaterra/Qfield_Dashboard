@@ -51,11 +51,11 @@ def load_data():
     """Load and cache the merged CSV files"""
     try:
         # Use pathlib to get the directory of the script and join with "data"
-        base_path = Path(__file__).parent /"data" 
+        base_path = Path(__file__).parent / "data" 
         files = {
-            'farminfo': base_path / "merged-farminfo.csv",
-            'fieldvisit': base_path / "merged-fieldvisit.csv",
-            'rainfall': base_path / "merged-rainfall.csv"
+            'farminfo': base_path / "merged_farminfo.csv",
+            'fieldvisit': base_path / "merged_fieldvisit.csv",
+            'rainfall': base_path / "merged_rainfall.csv"
         }
         
         data = {}
