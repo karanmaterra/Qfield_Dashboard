@@ -7,7 +7,7 @@ import os
 
 # Set page configuration
 st.set_page_config(
-    page_title="FE Data Analysis Dashboard",
+    page_title="Q-field ",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -845,7 +845,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.markdown("📊 **FE Data Analysis Dashboard** | Built with Streamlit")
+    st.markdown(" **🌱 Qfield Data Analysis** | By Karan Daphade💖")
 
 if __name__ == "__main__":
     main()
