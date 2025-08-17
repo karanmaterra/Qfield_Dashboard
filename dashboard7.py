@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
+from pathlib import Path
 from datetime import datetime
 import os
 
@@ -46,31 +47,33 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 @st.cache_data
-base_path = Path(__file__).parent / "data"
-
-# Define CSV file paths (relative)
-files = {
-    'farminfo': base_path / "merged_farminfo.csv",
-    'fieldvisit': base_path / "merged_fieldvisit.csv",
-    'rainfall': base_path / "merged_rainfall.csv"
-}
-
-# Load CSVs
-df_farm = pd.read_csv(files['farminfo'])
-df_visit = pd.read_csv(files['fieldvisit'])
-df_rain = pd.read_csv(files['rainfall'])
+def load_data():
+    """Load and cache the merged CSV files"""
+    try:
+        # Use pathlib to get the directory of the script and join with "data"
+        base_path = Path(__file__).parent / "data"
+        files = {
+            'farminfo': base_path / "merged-farminfo.csv",
+            'fieldvisit': base_path / "merged-fieldvisit.csv",
+            'rainfall': base_path / "merged-rainfall.csv"
+        }
         
         data = {}
         load_messages = []
+        successful_loads = 0
         for key, file_path in files.items():
-            if os.path.exists(file_path):
+            if file_path.exists():  # Use .exists() instead of os.path.exists
                 df = pd.read_csv(file_path)
-                print(f"Debug: Loaded {key} with shape {df.shape} and columns {df.columns.tolist()}")
                 data[key] = df
                 load_messages.append(f"{key}: {len(df)} records")
+                successful_loads += 1
             else:
-                st.error(f"❌ File not found: {file_path}")
+                st.warning(f"⚠️ File not found: {file_path}. Please ensure the file exists in the 'data' directory.")
                 data[key] = pd.DataFrame()
+        
+        if successful_loads == 0:
+            st.error("❌ No data files could be loaded. Please check the 'data' directory and ensure CSV files are present.")
+            return {'farminfo': pd.DataFrame(), 'fieldvisit': pd.DataFrame(), 'rainfall': pd.DataFrame()}
         
         st.success(f"✅ Loaded {' | '.join(load_messages)}")
         return data
