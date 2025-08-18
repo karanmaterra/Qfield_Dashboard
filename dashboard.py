@@ -492,7 +492,7 @@ def main():
     ]
     selected_visits = st.multiselect("Select Visit Periods (select 'All' to include all visits):", 
                                      options=visit_periods, 
-                                     default=['All'], 
+                                     default=['First Visit', 'Second Visit', 'Third Visit'], 
                                      key="global_visit_selector")
     
     # Create tabs
@@ -845,7 +845,7 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.markdown(" **🌱 Qfield Data Analysis** | By Karan Daphade💖")
+    st.markdown(" ** Qfield Data Analysis** | By Karan Daphade💖")
 
 if __name__ == "__main__":
     main()
