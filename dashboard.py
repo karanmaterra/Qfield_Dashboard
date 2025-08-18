@@ -8,7 +8,7 @@ import os
 # Set page configuration
 st.set_page_config(
     page_title="Q-field ",
-    page_icon="📊",
+    page_icon="🍃",
     layout="wide",
     initial_sidebar_state="expanded"
 )
@@ -28,6 +28,14 @@ st.markdown("""
         font-weight: bold;
         color: #ff7f0e;
         margin: 1rem 0;
+    }
+    .rainbow-text {
+        background: linear-gradient(90deg, #ff0000, #ff9900, #ffff00, #33cc33, #3399ff, #6633cc, #ff0066);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        background-clip: text;
+        color: transparent;
+        font-weight: bold;
     }
     .metric-card {
         background-color: #f0f2f6;
@@ -469,7 +477,19 @@ def get_missing_fes(data, cluster=None):
 
 def main():
     # Main title
-    st.markdown('<h1 class="main-header">🌾 FE Data Analysis Dashboard</h1>', unsafe_allow_html=True)
+    st.markdown(
+    """
+    <h1 class="main-header">
+        🪻 <span style="color:green;">Q-field</span> Data Analysis Dashboard
+    </h1>
+    <p class="rainbow-text" style="text-align:center; font-size:14px; margin-top:-1rem;">
+    By Karan Daphade
+</p>
+
+    """,
+    unsafe_allow_html=True
+)
+
     
     # Load data
     with st.spinner("Loading data..."):
@@ -845,7 +865,22 @@ def main():
     
     # Footer
     st.markdown("---")
-    st.markdown(" ** Qfield Data Analysis** | By Karan Daphade💖")
+    st.markdown(
+    """
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
+    .changa-one {
+        font-family: 'Changa One', cursive;
+        color: #7600c9;
+    }
+    </style>
+    <p>
+        <strong>Qfield Data Analysis</strong> | <span class="changa-one"> MATERRA®</span>
+    </p>
+    """,
+    unsafe_allow_html=True
+)
+
 
 if __name__ == "__main__":
     main()
