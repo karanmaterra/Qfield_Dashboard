@@ -549,24 +549,33 @@ def get_combined_fe_breakdown(fe_name, farminfo_df, fieldvisit_df, rainfall_df, 
     return combined_df
 
 def get_missing_fes(data, cluster=None):
-    """Identify FEs not present in farminfo dataset with dataset context"""
-    all_fes = set()
-    for df_key, df in data.items():
-        if not df.empty and 'FE_Name' in df.columns:
-            all_fes.update(df['FE_Name'].dropna().unique())
-    
+    """Identify FEs present in one dataset but missing in others, with optional cluster filtering"""
+    # Collect unique FEs from each dataset
     farminfo_fes = set(data['farminfo']['FE_Name'].dropna().unique()) if not data['farminfo'].empty and 'FE_Name' in data['farminfo'].columns else set()
+    fieldvisit_fes = set(data['fieldvisit']['FE_Name'].dropna().unique()) if not data['fieldvisit'].empty and 'FE_Name' in data['fieldvisit'].columns else set()
+    rainfall_fes = set(data['rainfall']['FE_Name'].dropna().unique()) if not data['rainfall'].empty and 'FE_Name' in data['rainfall'].columns else set()
+    observation_fes = set(data['observation']['FE_Name'].dropna().unique()) if not data['observation'].empty and 'FE_Name' in data['observation'].columns else set()
+
+    # Apply cluster filtering if a specific cluster is selected
     if cluster and cluster != "All" and not data['farminfo'].empty and 'Cluster name' in data['farminfo'].columns:
+        cluster_farmers = data['farminfo'][data['farminfo']['Cluster name'] == cluster]['Farmer ID'].dropna().unique()
         farminfo_fes = set(data['farminfo'][data['farminfo']['Cluster name'] == cluster]['FE_Name'].dropna().unique())
+        fieldvisit_fes = set(data['fieldvisit'][data['fieldvisit']['Farmer ID'].isin(cluster_farmers)]['FE_Name'].dropna().unique()) if not data['fieldvisit'].empty and 'Farmer ID' in data['fieldvisit'].columns else set()
+        rainfall_fes = set(data['rainfall'][data['rainfall']['Farmer ID'].isin(cluster_farmers)]['FE_Name'].dropna().unique()) if not data['rainfall'].empty and 'Farmer ID' in data['rainfall'].columns else set()
+        observation_fes = set(data['observation'][data['observation']['Farmer ID'].isin(cluster_farmers)]['FE_Name'].dropna().unique()) if not data['observation'].empty and 'Farmer ID' in data['observation'].columns else set()
+
+    # Collect all unique FEs across datasets
+    all_fes = farminfo_fes.union(fieldvisit_fes, rainfall_fes, observation_fes)
     
-    missing_fes = all_fes - farminfo_fes
     missing_data = []
-    for fe in missing_fes:
-        if fe not in data['fieldvisit']['FE_Name'].dropna().unique() if not data['fieldvisit'].empty and 'FE_Name' in data['fieldvisit'].columns else True:
+    for fe in all_fes:
+        if fe not in farminfo_fes:
+            missing_data.append({'FE Name': fe, 'Missing In': 'Farminfo'})
+        if fe not in fieldvisit_fes:
             missing_data.append({'FE Name': fe, 'Missing In': 'Fieldvisit'})
-        if fe not in data['rainfall']['FE_Name'].dropna().unique() if not data['rainfall'].empty and 'FE_Name' in data['rainfall'].columns else True:
+        if fe not in rainfall_fes:
             missing_data.append({'FE Name': fe, 'Missing In': 'Rainfall'})
-        if fe not in data['observation']['FE_Name'].dropna().unique() if not data['observation'].empty and 'FE_Name' in data['observation'].columns else True:
+        if fe not in observation_fes:
             missing_data.append({'FE Name': fe, 'Missing In': 'Observation'})
     
     missing_df = pd.DataFrame(missing_data).drop_duplicates()
