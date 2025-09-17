@@ -524,6 +524,9 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede
 NaN,2025-09-02,2025-08-27,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025-08-29,2025-09-01,Santosh Rede
 12067.0,2025-09-02,2025-08-27,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025-08-29,2025-09-01,Santosh Rede
 12062.0,2025-09-04,2025-09-01,Moderate Rain (मध्यम पाऊस),Moist (ओलसर माती),NaN,2025-09-02,2025-09-03,Santosh Rede
+11985.0,2025-09-16,2025-09-15,Heavy Rain (जोरदार पाऊस),Waterlogged (पाण्याने भरलेली माती / जलसंपृक्त माती),NaN,2025-09-16,NaN,Santosh Rede
+12138.0,2025-09-16,2025-09-15,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-09-16,NaN,Santosh Rede
+12062.0,2025-09-16,2025-09-15,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-09-16,NaN,Santosh Rede
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sharad Katkade
 NaN,NaN,2025-07-08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-07,2025-07-06,Sharad Katkade
 1190.0,2025-07-15,NaN,No Rain (पाऊस नाही),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Sharad Katkade
@@ -643,6 +646,12 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke
 14229.0,2025-09-04,2023-09-27,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2024-09-28,2025-09-01,Vishwajit Lanke
 443.0,2025-09-04,2024-09-27,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2024-09-28,2024-09-29,Vishwajit Lanke
 434.0,2025-09-04,2024-09-29,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2024-09-30,2025-09-01,Vishwajit Lanke
+13304.0,2025-09-16,2025-09-15,Very Heavy Rain (अतिजोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-09-02,2025-09-01,Vishwajit Lanke
+434.0,2025-09-17,2025-09-16,Very Heavy Rain (अतिजोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-09-11,2025-09-08,Vishwajit Lanke
+443.0,2025-09-17,2025-09-16,Very Heavy Rain (अतिजोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-09-15,2025-09-12,Vishwajit Lanke
+12413.0,2025-09-17,2025-09-17,Very Heavy Rain (अतिजोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-09-14,NaN,Vishwajit Lanke
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke
+14229.0,2025-09-17,2025-09-16,Very Heavy Rain (अतिजोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-09-15,2025-09-01,Vishwajit Lanke
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Yogesh Mothe
 11778.0,2025-07-09,2025-07-07,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025-07-08,2025-07-09,Yogesh Mothe
 11658.0,2025-07-18,2025-07-15,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,2025-07-16,2025-07-17,Yogesh Mothe
