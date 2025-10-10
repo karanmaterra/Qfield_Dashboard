@@ -614,7 +614,7 @@ def main():
                                      default=['Seventh Visit'],
                                      key="global_visit_selector")
     
-    tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["📋 Farminfo Analysis", "🏃‍♂️ Fieldvisit Analysis", "🌧️ Rainfall Analysis", "🔗 Combined FE Analysis", "🔭 Observation Analysis", "📊 Summary Table"])
+    tab1, tab2, tab3, tab4, tab5 = st.tabs(["📋 Farminfo Analysis", "🏃‍♂️ Fieldvisit Analysis", "🌧️ Rainfall Analysis", "🔗 Combined FE Analysis", "🔭 Observation Analysis"])
     
     with tab1:
         st.markdown('<h2 class="tab-subheader">📋 Farminfo Data Analysis</h2>', unsafe_allow_html=True)
@@ -1027,70 +1027,6 @@ def main():
                                 st.bar_chart(chart_data, use_container_width=True)
             else:
                 st.warning("No visit data found for analysis")
-    
-    with tab6:
-        st.markdown('<h2 class="tab-subheader">📊 Summary Table</h2>', unsafe_allow_html=True)
-        
-        # Get all unique FEs
-        all_fes = set()
-        if not data['farminfo'].empty and 'Cluster name' in data['farminfo'].columns and selected_cluster != "All":
-            cluster_farmers = data['farminfo'][data['farminfo']['Cluster name'] == selected_cluster]['Farmer ID'].dropna().unique()
-            for df in [data['farminfo'], data['fieldvisit'], data['rainfall'], data['observation']]:
-                if not df.empty and 'FE_Name' in df.columns and 'Farmer ID' in df.columns:
-                    temp_df = df[df['Farmer ID'].isin(cluster_farmers)]
-                    all_fes.update(temp_df['FE_Name'].dropna().unique())
-        else:
-            for df in [data['farminfo'], data['fieldvisit'], data['rainfall'], data['observation']]:
-                if not df.empty and 'FE_Name' in df.columns:
-                    all_fes.update(df['FE_Name'].dropna().unique())
-        
-        all_fes = sorted(list(all_fes))
-        
-        if not all_fes:
-            st.error("No Field Executives found in any dataset")
-        else:
-            # Active visits
-            active_visits = visit_periods[1:] if 'All' in selected_visits else selected_visits
-            
-            # Farminfo summary
-            farminfo_original = data['farminfo']
-            _, farminfo_valid = clean_farmer_data(farminfo_original)
-            farminfo_summary = create_fe_summary_table(farminfo_original, farminfo_valid, selected_cluster)
-            farminfo_summary = farminfo_summary.set_index('FE Name')[['Farmer Count']].rename(columns={'Farmer Count': 'Farminfo'})
-            
-            # Fieldvisit summary
-            fieldvisit_summary_df, _, _ = analyze_visit_data(data['fieldvisit'], data['farminfo'], selected_cluster, selected_visits, dataset_type='fieldvisit')
-            if not fieldvisit_summary_df.empty:
-                fieldvisit_pivot = fieldvisit_summary_df.pivot(index='FE Name', columns='Visit Period', values='Farmer Count').fillna(0)
-                fieldvisit_pivot.columns = pd.MultiIndex.from_product([['Fieldvisit'], fieldvisit_pivot.columns])
-            else:
-                fieldvisit_pivot = pd.DataFrame(index=all_fes, columns=pd.MultiIndex.from_product([['Fieldvisit'], active_visits])).fillna(0)
-            
-            # Rainfall summary
-            rainfall_summary_df, _, _ = analyze_visit_data(data['rainfall'], data['farminfo'], selected_cluster, selected_visits, dataset_type='rainfall')
-            if not rainfall_summary_df.empty:
-                rainfall_pivot = rainfall_summary_df.pivot(index='FE Name', columns='Visit Period', values='Farmer Count').fillna(0)
-                rainfall_pivot.columns = pd.MultiIndex.from_product([['Rainfall'], rainfall_pivot.columns])
-            else:
-                rainfall_pivot = pd.DataFrame(index=all_fes, columns=pd.MultiIndex.from_product([['Rainfall'], active_visits])).fillna(0)
-            
-            # Observation summary
-            observation_summary_df, _, _ = analyze_visit_data(data['observation'], data['farminfo'], selected_cluster, selected_visits, dataset_type='observation')
-            if not observation_summary_df.empty:
-                observation_pivot = observation_summary_df.pivot(index='FE Name', columns='Visit Period', values='Farmer Count').fillna(0)
-                observation_pivot.columns = pd.MultiIndex.from_product([['Observation'], observation_pivot.columns])
-            else:
-                observation_pivot = pd.DataFrame(index=all_fes, columns=pd.MultiIndex.from_product([['Observation'], active_visits])).fillna(0)
-            
-            # Combine all
-            summary_table = pd.concat([
-                farminfo_summary,
-                fieldvisit_pivot,
-                rainfall_pivot,
-                observation_pivot
-            ], axis=1).reindex(all_fes).fillna(0).astype(int)
-            
-            st.dataframe(summary_table, use_container_width=True)
     
     st.markdown("---")
     st.markdown(
