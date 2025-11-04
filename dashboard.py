@@ -611,7 +611,7 @@ def main():
     ]
     selected_visits = st.multiselect("Select Visit Periods (select 'All' to include all visits):", 
                                      options=visit_periods, 
-                                     default=['Eighth Visit'],
+                                     default=['Ninth Visit'],
                                      key="global_visit_selector")
     
     tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["📋 Farminfo Analysis", "🏃‍♂️ Fieldvisit Analysis", "🌧️ Rainfall Analysis", "🔗 Combined FE Analysis", "🔭 Observation Analysis", "📊 Summary Table"])
