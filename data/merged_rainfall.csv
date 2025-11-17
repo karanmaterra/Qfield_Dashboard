@@ -166,6 +166,7 @@ NaN,2025-10-10,2025-10-01,Light Rain (हलका पाऊस),Slightly Moist 
 6212.0,2025-11-06,NaN,No Rain (पाऊस नाही),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Chetan Thombare
 1482.0,2025-11-06,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Chetan Thombare
 12322.0,2025-11-06,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Chetan Thombare
+1487.0,2025-11-07,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Chetan Thombare
 664.0,2025-07-06,2025-07-06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025-07-05,2025-06-30,Dnyaneshwar Ekhande
 664.0,2025-07-18,2025-07-17,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-06,NaN,Dnyaneshwar Ekhande
 12719.0,2025-07-18,2025-07-06,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Dnyaneshwar Ekhande
@@ -675,6 +676,11 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ravi Ghule
 11770.0,2025-11-04,2025-10-25,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-11-28,2025-11-03,Ravi Ghule
 1069.0,2025-11-04,2025-10-26,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-11-28,2025-11-03,Ravi Ghule
 506.0,2025-11-04,2025-10-28,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-10-31,2025-11-03,Ravi Ghule
+1003.0,2025-11-15,2025-11-06,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-10,2025-11-13,Ravi Ghule
+1008.0,2025-11-15,2025-11-09,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-11,2025-11-14,Ravi Ghule
+11770.0,2025-11-15,2025-11-05,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-09,2025-11-12,Ravi Ghule
+1069.0,2025-11-15,2025-11-07,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-10,2025-11-13,Ravi Ghule
+506.0,2025-11-15,2025-11-04,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-08,2025-11-12,Ravi Ghule
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ravi Uikey
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ravi Uikey
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ravi Uikey
