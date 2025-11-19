@@ -129,26 +129,32 @@ def classify_visit_period(date_str):
     if date_obj is None:
         return "Unknown"
     
-    visit_periods = [
-        ("First Visit", datetime(2025, 6, 20), datetime(2025, 7, 14)),
-        ("Second Visit", datetime(2025, 7, 15), datetime(2025, 7, 31)),
-        ("Third Visit", datetime(2025, 8, 1), datetime(2025, 8, 14)),
-        ("Fourth Visit", datetime(2025, 8, 15), datetime(2025, 8, 31)),
-        ("Fifth Visit", datetime(2025, 9, 1), datetime(2025, 9, 14)),
-        ("Sixth Visit", datetime(2025, 9, 15), datetime(2025, 9, 30)),
-        ("Seventh Visit", datetime(2025, 10, 1), datetime(2025, 10, 14)),
-        ("Eighth Visit", datetime(2025, 10, 15), datetime(2025, 10, 31)),
-        ("Ninth Visit", datetime(2025, 11, 1), datetime(2025, 11, 14)),
-        ("Tenth Visit", datetime(2025, 11, 15), datetime(2025, 11, 30)),
-        ("Eleventh Visit", datetime(2025, 12, 1), datetime(2025, 12, 14)),
-        ("Twelfth Visit", datetime(2025, 12, 15), datetime(2025, 12, 31)),
-        ("Thirteenth Visit", datetime(2026, 1, 1), datetime(2026, 1, 14)),
-        ("Fourteenth Visit", datetime(2026, 1, 15), datetime(2026, 1, 31)),
-        ("Fifteenth Visit", datetime(2026, 2, 1), datetime(2026, 2, 14)),
-        ("Sixteenth Visit", datetime(2026, 2, 15), datetime(2026, 2, 28))
-    ]
+    # visit_periods = [
+    #     ("First Visit", datetime(2025, 6, 20), datetime(2025, 7, 14)),
+    #     ("Second Visit", datetime(2025, 7, 15), datetime(2025, 7, 31)),
+    #     ("Third Visit", datetime(2025, 8, 1), datetime(2025, 8, 14)),
+    #     ("Fourth Visit", datetime(2025, 8, 15), datetime(2025, 8, 31)),
+    #     ("Fifth Visit", datetime(2025, 9, 1), datetime(2025, 9, 14)),
+    #     ("Sixth Visit", datetime(2025, 9, 15), datetime(2025, 9, 30)),
+    #     ("Seventh Visit", datetime(2025, 10, 1), datetime(2025, 10, 14)),
+    #     ("Eighth Visit", datetime(2025, 10, 15), datetime(2025, 10, 31)),
+    #     ("Ninth Visit", datetime(2025, 11, 1), datetime(2025, 11, 14)),
+    #     ("Tenth Visit", datetime(2025, 11, 15), datetime(2025, 11, 30)),
+    #     ("Eleventh Visit", datetime(2025, 12, 1), datetime(2025, 12, 14)),
+    #     ("Twelfth Visit", datetime(2025, 12, 15), datetime(2025, 12, 31)),
+    #     ("Thirteenth Visit", datetime(2026, 1, 1), datetime(2026, 1, 14)),
+    #     ("Fourteenth Visit", datetime(2026, 1, 15), datetime(2026, 1, 31)),
+    #     ("Fifteenth Visit", datetime(2026, 2, 1), datetime(2026, 2, 14)),
+    #     ("Sixteenth Visit", datetime(2026, 2, 15), datetime(2026, 2, 28))
+    # ]
 
-   
+    visit_periods = [
+        ("First Visit", datetime(2025, 6, 20), datetime(2025, 11, 3)),
+        ("Second Visit", datetime(2025, 11, 4), datetime(2025, 11, 17)),
+        # ("Third Visit", datetime(2025, 8, 1), datetime(2025, 8, 14)),
+        # ("Fourth Visit", datetime(2025, 8, 15), datetime(2025, 8, 31)),
+       
+    ]
     
     for visit_name, start_date, end_date in visit_periods:
         if start_date <= date_obj <= end_date:
@@ -613,7 +619,7 @@ def main():
     ]
     selected_visits = st.multiselect("Select Visit Periods (select 'All' to include all visits):", 
                                      options=visit_periods, 
-                                     default=['Tenth Visit'],
+                                     default=['Ninth Visit'],
                                      key="global_visit_selector")
     
     tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["📋 Farminfo Analysis", "🏃‍♂️ Fieldvisit Analysis", "🌧️ Rainfall Analysis", "🔗 Combined FE Analysis", "🔭 Observation Analysis", "📊 Summary Table"])
