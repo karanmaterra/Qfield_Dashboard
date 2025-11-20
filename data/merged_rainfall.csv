@@ -174,6 +174,7 @@ NaN,2025-10-10,2025-10-01,Light Rain (हलका पाऊस),Slightly Moist 
 1487.0,2025-11-07,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Chetan Thombare
 1487.0,2025-11-18,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Chetan Thombare
 6212.0,2025-11-18,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Chetan Thombare
+12322.0,2025-11-19,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Chetan Thombare
 664.0,2025-07-06,2025-07-06,Light Rain (हलका पाऊस),Moist (ओलसर माती),NaN,2025-07-05,2025-06-30,Dnyaneshwar Ekhande
 664.0,2025-07-18,2025-07-17,Moderate Rain (मध्यम पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-06,NaN,Dnyaneshwar Ekhande
 12719.0,2025-07-18,2025-07-06,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Dnyaneshwar Ekhande
@@ -433,6 +434,11 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Kiran Karegaonkar
 877.0,2025-11-03,2025-11-01,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-11-02,2025-11-03,Kiran Karegaonkar
 1841.0,2025-11-03,2025-11-01,Very Heavy Rain (अतिजोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-11-02,2025-11-03,Kiran Karegaonkar
 1379.0,2025-11-03,2025-11-01,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-11-02,2025-11-03,Kiran Karegaonkar
+11771.0,2025-11-19,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
+1841.0,2025-11-19,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
+877.0,2025-11-19,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
+1379.0,2025-11-19,NaN,NaN,Moist (ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
+11077.0,2025-11-19,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
 11537.0,2025-07-08,NaN,NaN,NaN,NaN,NaN,NaN,Manish Shelke
 11537.0,2025-07-08,2025-07-07,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-08,NaN,Manish Shelke
 12451.0,2025-07-07,2025-07-08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-08,NaN,Manish Shelke
@@ -521,6 +527,11 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Manish Shelke
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Mithun Tagade
 10760.0,2025-11-05,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Mithun Tagade
 10773.0,2025-11-05,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Mithun Tagade
+11263.0,2025-11-20,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Mithun Tagade
+10805.0,2025-11-20,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Mithun Tagade
+10760.0,2025-11-20,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Mithun Tagade
+10773.0,2025-11-20,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Mithun Tagade
+10764.0,2025-11-20,NaN,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,NaN,NaN,Mithun Tagade
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Namdev D
 10903.0,2025-07-03,2025-07-01,Light Rain (हलका पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pawan Lade
 NaN,2025-07-03,2025-07-01,Moderate Rain (मध्यम पाऊस),Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pawan Lade
@@ -600,6 +611,12 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pawan Lade
 11273.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pradip Bhutekar
 11273.0,2025-11-05,2025-11-02,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-11-03,NaN,Pradip Bhutekar
 11512.0,2025-11-05,2025-11-02,Heavy Rain (जोरदार पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-11-03,NaN,Pradip Bhutekar
+11603.0,2025-11-20,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pradip Bhutekar
+11615.0,2025-11-20,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Pradip Bhutekar
+12762.0,2025-11-20,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Pradip Bhutekar
+11273.0,2025-11-20,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Pradip Bhutekar
+11512.0,2025-11-20,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Pradip Bhutekar
+11512.0,2025-11-20,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Pradip Bhutekar
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane
 742.0,2025-07-09,2025-07-09,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-08,2025-07-07,Pralhad Pachrane
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane
