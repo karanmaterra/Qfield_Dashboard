@@ -982,6 +982,10 @@ NaN,NaN,10.0,0.0,0.0,80.0,NaN,0.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sandee
 9263.0,2025-11-06,0.0,30.0,5.0,120.0,NaN,4.0,2025-10-28,NaN,NaN,NaN,NaN,150.0,NaN,NaN,NaN,NaN,Sandeep Shelke,NaN,NaN,NaN,NaN
 6862.0,2025-11-06,0.0,40.0,10.0,135.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sandeep Shelke,NaN,NaN,NaN,NaN
 6791.0,2025-11-06,8.0,45.0,6.0,140.0,NaN,5.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sandeep Shelke,NaN,NaN,NaN,NaN
+9589.0,2025-11-19,10.0,35.0,10.0,140.0,NaN,5.0,2025-11-19,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sandeep Shelke,NaN,NaN,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Sandeep Shelke,NaN,NaN,NaN,NaN
+6862.0,2025-11-20,5.0,40.0,20.0,145.0,NaN,5.0,2025-11-17,NaN,NaN,NaN,NaN,1500.0,NaN,NaN,NaN,NaN,Sandeep Shelke,NaN,NaN,NaN,NaN
+9263.0,2025-11-20,0.0,5.0,10.0,135.0,NaN,4.0,2025-11-12,2025-11-17,NaN,NaN,NaN,700.0,500.0,NaN,NaN,NaN,Sandeep Shelke,NaN,NaN,NaN,NaN
 11985.0,2025-08-19,25.0,5.0,0.0,3.0,NaN,5.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN
 12060.0,2025-08-19,22.0,7.0,0.0,3.0,NaN,5.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN
 12062.0,2025-08-19,27.0,8.0,0.0,3.0,NaN,7.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Santosh Rede,NaN,NaN,NaN,NaN
@@ -1114,6 +1118,7 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vaibhav 
 522.0,2025-11-18,5.0,60.0,50.0,NaN,NaN,20.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN
 475.0,2025-11-18,5.0,40.0,35.0,NaN,NaN,20.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN
+6705.0,2025-11-19,2.0,40.0,35.0,NaN,NaN,20.0,2025-11-19,NaN,NaN,NaN,NaN,400.0,NaN,NaN,NaN,NaN,Vaibhav Khaire,NaN,NaN,NaN,NaN
 12413.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
 14229.0,2025-08-02,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
 13304.0,2025-08-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
@@ -1153,6 +1158,11 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwaji
 14229.0,2025-11-05,8.0,28.0,22.0,60.0,NaN,8.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
 13304.0,2025-11-05,4.0,12.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
 13304.0,2025-11-05,6.0,9.0,5.0,68.0,NaN,8.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
+12413.0,2025-11-19,2.0,14.0,4.0,65.0,NaN,6.0,2025-11-12,NaN,NaN,NaN,NaN,1800.0,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
+14229.0,2025-11-19,4.0,16.0,5.0,63.0,NaN,7.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
+443.0,2025-11-19,0.0,0.0,0.0,0.0,NaN,0.0,2025-11-15,NaN,NaN,NaN,NaN,1100.0,NaN,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
+434.0,2025-11-19,4.0,18.0,8.0,70.0,NaN,6.0,NaN,2025-11-16,NaN,NaN,NaN,NaN,590.0,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
+13304.0,2025-11-19,2.0,14.0,2.0,67.0,NaN,5.0,NaN,2025-11-16,NaN,NaN,NaN,NaN,640.0,NaN,NaN,NaN,Vishwajit Lanke,NaN,NaN,NaN,NaN
 11431.0,2025-09-02,20.0,4.0,0.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN
 11658.0,2025-09-02,20.0,5.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN
 12888.0,2025-09-02,20.0,5.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Yogesh Mothe,NaN,NaN,NaN,NaN
