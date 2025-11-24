@@ -64,6 +64,10 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ankush K
 1.0,2025-11-05,2.0,30.0,20.0,120.0,NaN,6.0,2025-11-03,NaN,NaN,NaN,NaN,500.0,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN
 32.0,2025-11-05,2.0,28.0,18.0,120.0,NaN,6.0,2025-11-03,NaN,NaN,NaN,NaN,400.0,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN
 33.0,2025-11-05,1.0,32.0,19.0,120.0,NaN,6.0,2025-11-03,NaN,NaN,NaN,NaN,500.0,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN
+31.0,2025-11-20,0.0,5.0,28.0,NaN,NaN,6.0,2025-11-15,NaN,NaN,NaN,NaN,1600.0,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN
+32.0,2025-11-20,0.0,5.0,25.0,NaN,NaN,6.0,2025-11-20,NaN,NaN,NaN,NaN,800.0,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN
+2.0,2025-11-20,0.0,2.0,25.0,NaN,NaN,6.0,2025-11-18,NaN,NaN,NaN,NaN,1200.0,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN
+1.0,2025-11-20,1.0,5.0,20.0,NaN,NaN,6.0,2025-11-15,NaN,NaN,NaN,NaN,1500.0,NaN,NaN,NaN,NaN,Baliram Ghule,NaN,NaN,NaN,NaN
 471.0,2025-08-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN
 515.0,2025-08-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN
 491.0,2025-08-01,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Bhagwat Ghule,NaN,NaN,NaN,NaN
@@ -149,6 +153,9 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Dnyanesh
 597.0,2025-11-05,15.0,21.0,16.0,NaN,NaN,22.0,2025-10-21,NaN,NaN,NaN,NaN,200.0,NaN,NaN,NaN,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN
 6235.0,2025-11-19,0.0,0.0,0.0,0.0,NaN,NaN,NaN,2025-11-07,NaN,NaN,NaN,NaN,250.0,NaN,NaN,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN
 597.0,2025-11-19,0.0,10.0,15.0,NaN,NaN,NaN,NaN,2025-11-06,NaN,NaN,NaN,NaN,300.0,NaN,NaN,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN
+12719.0,2025-11-20,10.0,15.0,12.0,NaN,NaN,NaN,NaN,2025-11-07,NaN,NaN,NaN,NaN,800.0,NaN,NaN,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN
+664.0,2025-11-20,5.0,10.0,4.0,NaN,NaN,NaN,NaN,2025-11-09,NaN,NaN,NaN,NaN,800.0,NaN,NaN,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN
+687.0,2025-11-20,8.0,10.0,8.0,NaN,NaN,NaN,NaN,2025-11-10,NaN,NaN,NaN,NaN,650.0,NaN,NaN,NaN,Dnyaneshwar Ekhande,NaN,NaN,NaN,NaN
 10974.0,2025-08-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN
 10732.0,2025-08-20,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Dnyaneshwar Gadkari,NaN,NaN,NaN,NaN
@@ -752,6 +759,8 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Namdev D
 1775.0,2025-11-20,8.0,5.0,8.0,124.0,NaN,NaN,NaN,2025-11-16,NaN,NaN,NaN,NaN,600.0,NaN,NaN,NaN,Namdev D,NaN,NaN,NaN,NaN
 970.0,2025-11-20,NaN,6.0,15.0,118.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Namdev D,NaN,NaN,NaN,NaN
 956.0,2025-11-20,NaN,6.0,12.0,139.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Namdev D,NaN,NaN,NaN,NaN
+957.0,2025-11-20,NaN,8.0,15.0,134.0,NaN,NaN,2025-11-12,NaN,NaN,NaN,NaN,1000.0,NaN,NaN,NaN,NaN,Namdev D,NaN,NaN,NaN,NaN
+958.0,2025-11-20,NaN,6.0,16.0,134.0,NaN,NaN,2025-11-18,NaN,NaN,NaN,NaN,1300.0,NaN,NaN,NaN,NaN,Namdev D,NaN,NaN,NaN,NaN
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pawan Lade,NaN,NaN,NaN,NaN
 10893.0,2025-08-20,3.0,0.0,0.0,0.0,NaN,0.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pawan Lade,NaN,NaN,NaN,NaN
 10891.0,2025-08-20,5.0,0.0,0.0,0.0,NaN,0.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pawan Lade,NaN,NaN,NaN,NaN
@@ -841,6 +850,14 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad 
 742.0,2025-11-05,0.0,41.0,31.0,130.0,NaN,12.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
 11482.0,2025-11-05,0.0,43.0,31.0,140.0,NaN,12.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
 10988.0,2025-11-05,0.0,4.0,28.0,95.0,NaN,10.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
+10975.0,2025-11-20,2.0,4.0,16.0,140.0,NaN,12.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
+272.0,2025-11-20,2.0,4.0,12.0,130.0,NaN,13.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
+742.0,2025-11-20,3.0,5.0,13.0,130.0,NaN,12.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
+NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
+11482.0,2025-11-20,3.0,5.0,16.0,120.0,NaN,12.0,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
+10988.0,2025-11-20,3.0,4.0,10.0,120.0,NaN,12.0,2025-11-19,NaN,NaN,NaN,NaN,800.0,NaN,NaN,NaN,NaN,Pralhad Pachrane,NaN,NaN,NaN,NaN
 12623.0,2025-08-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN
 11087.0,2025-08-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN
 11093.0,2025-08-21,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Pravin Dhone,NaN,NaN,NaN,NaN
