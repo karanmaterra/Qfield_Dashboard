@@ -151,7 +151,7 @@ def classify_visit_period(date_str):
     visit_periods = [
         ("First Visit", datetime(2025, 6, 20), datetime(2025, 11, 3)),
         ("Second Visit", datetime(2025, 11, 4), datetime(2025, 11, 17)),
-        # ("Third Visit", datetime(2025, 8, 1), datetime(2025, 8, 14)),
+        ("Third Visit", datetime(2025, 11, 18), datetime(2025, 12, 3)),
         # ("Fourth Visit", datetime(2025, 8, 15), datetime(2025, 8, 31)),
        
     ]
