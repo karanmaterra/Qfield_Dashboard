@@ -225,6 +225,8 @@ NaN,2025-10-10,2025-10-01,Light Rain (हलका पाऊस),Slightly Moist 
 12719.0,2025-11-20,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Dnyaneshwar Ekhande
 664.0,2025-11-20,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Dnyaneshwar Ekhande
 687.0,2025-11-20,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Dnyaneshwar Ekhande
+12719.0,2025-12-03,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Dnyaneshwar Ekhande
+664.0,2025-12-03,NaN,NaN,Dry (कोरडी माती),NaN,NaN,NaN,Dnyaneshwar Ekhande
 10974.0,2025-07-08,2025-07-05,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-06,NaN,Dnyaneshwar Gadkari
 10959.0,2025-07-08,2025-07-05,Light Rain (हलका पाऊस),NaN,NaN,2025-07-06,NaN,Dnyaneshwar Gadkari
 10959.0,2025-07-08,2025-07-05,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-06,NaN,Dnyaneshwar Gadkari
@@ -458,6 +460,9 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Kiran Karegaonkar
 877.0,2025-11-19,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
 1379.0,2025-11-19,NaN,NaN,Moist (ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
 11077.0,2025-11-19,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
+877.0,2025-12-03,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
+1841.0,2025-12-03,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
+11771.0,2025-12-03,NaN,NaN,Slightly Moist (थोडीशी ओलसर माती),NaN,NaN,NaN,Kiran Karegaonkar
 11537.0,2025-07-08,NaN,NaN,NaN,NaN,NaN,NaN,Manish Shelke
 11537.0,2025-07-08,2025-07-07,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-08,NaN,Manish Shelke
 12451.0,2025-07-07,2025-07-08,Light Rain (हलका पाऊस),Wet (ओल माती / पूर्ण ओलसर माती),NaN,2025-07-08,NaN,Manish Shelke
@@ -795,6 +800,9 @@ NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ravi Ghule
 11770.0,2025-11-15,2025-11-05,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-09,2025-11-12,Ravi Ghule
 1069.0,2025-11-15,2025-11-07,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-10,2025-11-13,Ravi Ghule
 506.0,2025-11-15,2025-11-04,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-08,2025-11-12,Ravi Ghule
+1069.0,2025-12-03,2025-11-28,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-12-01,2025-12-03,Ravi Ghule
+11770.0,2025-12-03,2025-11-24,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-30,2025-12-01,Ravi Ghule
+1008.0,2025-12-03,2025-11-25,No Rain (पाऊस नाही),Dry (कोरडी माती),NaN,2025-11-29,2025-12-02,Ravi Ghule
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ravi Uikey
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ravi Uikey
 NaN,NaN,NaN,NaN,NaN,NaN,NaN,NaN,Ravi Uikey
